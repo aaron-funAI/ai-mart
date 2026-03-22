@@ -212,3 +212,4 @@ __marimo__/
 chroma_data/
 products.json
 products_with_vectors.json
+.env
